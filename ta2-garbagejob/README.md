@@ -1,4 +1,4 @@
-# Garbage Job V2 For QB-Core
+# Garbage Job For ta2-Core
 
 # Rework Update
 - Job now pays per bag delivered on a configured scale.
@@ -9,8 +9,8 @@
 
 # License
 
-    QBCore Framework
-    Copyright (C) 2021 Joshua Eger
+    TA2Core Framework
+    Copyright (C) 2026 Terrance Tatituptech Ware
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
