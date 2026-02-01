@@ -1,7 +1,7 @@
 ﻿fx_version "cerulean"
 game "gta5"
 
-author "Cocodrulo"
+author 'TATITUPTECH'
 version '0.0.4'
 description "A siple Fuel System for FiveM"
 
