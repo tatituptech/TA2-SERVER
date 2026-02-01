@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
-author 'Kakarot'
+author 'TATITUPTECH'
 description 'Menu that allows players to input information for various things'
 version '1.2.0'
 
