@@ -1,5 +1,5 @@
-# qb-jewelery
-Jewelry Robbery For QB-Core
+# ta2-jewelery
+Jewelry Robbery For TA2-Core
 
 # Server.cfg Convar Update
 - Global DrawTextUi Option
