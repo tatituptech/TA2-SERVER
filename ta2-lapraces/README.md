@@ -1,5 +1,5 @@
-# qb-lapraces
-Race Track Creation For QB-Core
+# ta2-lapraces
+Race Track Creation For TA2-Core
 
 # License
 
