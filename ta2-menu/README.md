@@ -33,7 +33,7 @@ RegisterCommand("qbmenutest", function(source, args, raw)
             header = "Sub Menu Button",
             txt = "This goes to a sub menu",
             params = {
-                event = "qb-menu:client:testMenu2",
+                event = "ta2-menu:client:testMenu2",
                 args = {
                     number = 1,
                 }
@@ -45,7 +45,7 @@ RegisterCommand("qbmenutest", function(source, args, raw)
             disabled = true,
             -- hidden = true, -- doesnt create this at all if set to true
             params = {
-                event = "qb-menu:client:testMenu2",
+                event = "ta2-menu:client:testMenu2",
                 args = {
                     number = 1,
                 }
@@ -55,9 +55,9 @@ RegisterCommand("qbmenutest", function(source, args, raw)
 end)
 ```
 ```LUA
-RegisterNetEvent('qb-menu:client:testMenu2', function(data)
+RegisterNetEvent('ta2-menu:client:testMenu2', function(data)
     local number = data.number
-    exports["qb-menu"]:openMenu({
+    exports["ta2-menu"]:openMenu({
         {
             header = "< Go Back",
         },
@@ -65,7 +65,7 @@ RegisterNetEvent('qb-menu:client:testMenu2', function(data)
             header = "Number: "..number,
             txt = "Other",
             params = {
-                event = "qb-menu:client:testButton",
+                event = "ta2-menu:client:testButton",
                 args = {
                     message = "This was called by clicking this button"
                 }
@@ -75,8 +75,8 @@ RegisterNetEvent('qb-menu:client:testMenu2', function(data)
 end)
 ```
 ```LUA
-RegisterNetEvent('qb-menu:client:testButton', function(data)
-    TriggerEvent('QBCore:Notify', data.message)
+RegisterNetEvent('ta2-menu:client:testButton', function(data)
+    TriggerEvent('TA2Core:Notify', data.message)
 end)
 ```
 
