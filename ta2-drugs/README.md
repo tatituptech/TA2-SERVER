@@ -1,5 +1,5 @@
-# qb-drugs
-Drugs Script For QB-Core
+# ta2-drugs
+Drugs Script For ta2-Core
 
 # License
 
