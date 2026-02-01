@@ -1,12 +1,12 @@
-# qb-fuel
+# ta2-fuel
 
 Fuel and fuelstations system for Fivem :fuelpump:
 
 ## Dependencies
 
--   [qb-core](https://github.com/qbcore-framework/qb-core) (Required)
--   [qb-target](https://github.com/BerkieBb/qb-target) (Required)
--   [PolyZone](https://github.com/mkafrin/PolyZone) (Required)
+-   [ta2-core]
+-   [ta2-target]
+-   [PolyZone]
 
 ## Exports 📡
 
@@ -27,4 +27,4 @@ exports['qb-fuel']:GetFuel(vehicle)
 exports['LegacyFuel']:GetFuel(vehicle)
 ```
 
-This will make it easier to change from _LegacyFuel_ to _qb-fuel_.
+This will make it easier to change from _LegacyFuel_ to _ta2-fuel_.
