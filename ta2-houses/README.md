@@ -1,5 +1,5 @@
-# qb-houses
-Real Estate for QB-Core Framework :house_with_garden:
+# ta2-houses
+Real Estate for TA2-Core Framework :house_with_garden:
 
 # License
 
@@ -20,17 +20,17 @@ Real Estate for QB-Core Framework :house_with_garden:
     along with this program.  If not, see <https://www.gnu.org/licenses/>
 
 ## Dependencies
-- [qb-core](https://github.com/qbcore-framework/qb-core)
-- [qb-radialmenu](https://github.com/qbcore-framework/qb-radialmenu) - For the menu in screenshots
-- [qb-anticheat](https://github.com/qbcore-framework/qb-anticheat) - Anti Cheat 
-- [qb-phone](https://github.com/qbcore-framework/qb-phone) - Houses app
-- [qb-multicharacter](https://github.com/qbcore-framework/qb-multicharacter) - Checking if player is inside after character chosen (You need to edit the lines if you don't use this)
-- [qb-garages](https://github.com/qbcore-framework/qb-garages) - House Garage
-- [qb-interior](https://github.com/qbcore-framework/qb-interior) - Necessary for house interiors
-- [qb-clothing](https://github.com/qbcore-framework/qb-clothing) - Outfits
-- [qb-weathersync](https://github.com/qbcore-framework/qb-weathersync) - Desync weather inside house
-- [qb-weed](https://github.com/qbcore-framework/qb-weed) - Weed plant
-- [qb-minigames](https://github.com/qbcore-framework/qb-minigames) - Skills
+- [ta2-core]
+- [ta2-radialmenu]- For the menu in screenshots
+- [ta2-anticheat] - Anti Cheat 
+- [ta2-phone]- Houses app
+- [ta2-multicharacter] - Checking if player is inside after character chosen (You need to edit the lines if you don't use this)
+- [ta2-garages]- House Garage
+- [ta2-interior]- Necessary for house interiors
+- [ta2-clothing]- Outfits
+- [ta2-weathersync]- Desync weather inside house
+- [ta2-weed] - Weed plant
+- [ta2-minigames]- Skills
 
 ## Screenshots
 ![Buy House](https://imgur.com/4eQnRqA.png)
@@ -85,21 +85,21 @@ Real Estate for QB-Core Framework :house_with_garden:
 
 ## Installation
 ### Manual
-- Download the script and put it in the `[qb]` directory.
-- Import `qb-houses.sql` in your database
+- Download the script and put it in the `[ta2]` directory.
+- Import `ta2-houses.sql` in your database
 - Add the following code to your server.cfg/resouces.cfg
 ```
-ensure qb-core
-ensure qb-radialmenu
-ensure qb-anticheat
-ensure qb-phone
-ensure qb-multicharacter
-ensure qb-garages
-ensure qb-interior
-ensure qb-clothing
-ensure qb-weathersync
-ensure qb-weed
-ensure qb-skillbar
+ensure ta2-core
+ensure ta2-radialmenu
+ensure ta2-anticheat
+ensure ta2-phone
+ensure ta2-multicharacter
+ensure ta2-garages
+ensure ta2-interior
+ensure ta2-clothing
+ensure ta2-weathersync
+ensure ta2-weed
+ensure ta2-skillbar
 ```
 
 ## Configuration
