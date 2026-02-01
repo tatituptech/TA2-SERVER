@@ -2,7 +2,7 @@
 game 'gta5'
 lua54 'yes'
 use_fxv2_oal 'yes'
-author 'Kakarot'
+author 'TATITUPTECH'
 description 'Allows players to rob banks and blow up power stations'
 version '1.3.0'
 
