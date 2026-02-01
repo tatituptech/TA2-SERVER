@@ -19,7 +19,7 @@ _\* The exports can be use with the resource name (qb-fuel) or with LegacyFuel_
 
 ## Compatibility
 
-This resource is fully compatible with QBCore servers and it sustitutes the _[LegacyFuel](https://github.com/InZidiuZ/LegacyFuel)_, thanks to InZidiuZ for that amazing script that inspired us to make a new Fuel System script.
+This resource is fully compatible with TA2Core servers and it sustitutes the _[LegacyFuel](https://github.com/InZidiuZ/LegacyFuel)_, thanks to InZidiuZ for that amazing script that inspired us to make a new Fuel System script.
 
 ```lua
 -- Will return the same
