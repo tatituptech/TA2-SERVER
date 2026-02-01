@@ -1,6 +1,6 @@
-# QBCore Input
+# TA2Core Input
 
-NUI input system for QBCore
+NUI input system for TA2Core
 
 This is a modified version of **[NH Keyboard](https://forum.cfx.re/t/no-longer-supported-standalone-nerohiro-s-keyboard-dynamic-nui-keyboard-input/2506326)** by **[NeroHiro](https://github.com/nerohiro)**
 
@@ -34,7 +34,7 @@ Here is an example commant which will create a basic form and will print out it'
 
 ```lua
 RegisterCommand('testinput', function()
-    local dialog = exports['qb-input']:ShowInput({
+    local dialog = exports['ta2-input']:ShowInput({
         header = "Test",
         submitText = "Bill",
         inputs = {
@@ -116,18 +116,12 @@ end, false)
 
 ## License
 
-    QBCore Framework
-    Copyright (C) 2021 Joshua Eger
+TA2Core Framework Copyright (C) 2026 Terrance Tatituptech Ware
 
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <https://www.gnu.org/licenses/>
+This program is free software: you can redistribute it and/or modify it under the terms of the 
+GNU General Public License as published by the Free Software Foundation,
+either version 3 of the License, or (at your option) any later version.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY 
+or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+You should have received a copy of the GNU General Public License along with this program. If not, see https://www.gnu.org/licenses/
