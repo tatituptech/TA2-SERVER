@@ -1,13 +1,13 @@
-# qb-doorlock
-Doorlock System For QBCore
+# ta2-doorlock
+Doorlock System For Ta2Core
 
 This doorlock system is based on [nui_doorlock by thelindat](https://github.com/thelindat/nui_doorlock) and contains compatibility with it's format.
 
 ## Dependencies
 
-* [qb-core](https://github.com/qbcore-framework/qb-core)
-* [qb-input](https://github.com/qbcore-framework/qb-input) - For Making New Doors
-* [qb-minigames](https://github.com/qbcore-framework/qb-minigames) - For Lockpicking Doors
+* [ta2-core]
+* [ta2-input] - For Making New Doors
+* [ta2-minigames]
 
 ## Features
 
