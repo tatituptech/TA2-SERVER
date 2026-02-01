@@ -1,4 +1,4 @@
-# QB-Banking
+# TA2-Banking
 
 ## Features
 - Handles all player interaction with bank/job/gang/shared accounts
@@ -7,7 +7,6 @@
 - Auto creation of job/gang accounts on bank first open
 - Boss-only access to job/gang accounts
 
-Documentation: https://docs.qbcore.org/qbcore-documentation/qbcore-resources/qb-banking
 
 # License
 
