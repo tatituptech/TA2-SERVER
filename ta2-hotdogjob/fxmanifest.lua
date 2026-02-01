@@ -1,7 +1,7 @@
 ﻿fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
-author 'Kakarot'
+author 'TATITUPTECH'
 description 'Allows players to sell hotdogs to npcs for money'
 version '1.2.2'
 
