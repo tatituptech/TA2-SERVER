@@ -1,5 +1,5 @@
-# qb-hotdogjob
-Hot Dog Job For QB-Core
+# ta2-hotdogjob
+Hot Dog Job For TA2-Core
 
 # License
 
