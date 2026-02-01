@@ -1,5 +1,5 @@
-# qb-bankrobbery
-Bank Robbery For QB-Core
+# ta2-bankrobbery
+Bank Robbery For TA2-Core
 
 # License
 
