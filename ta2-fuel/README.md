@@ -23,7 +23,7 @@ This resource is fully compatible with QBCore servers and it sustitutes the _[Le
 
 ```lua
 -- Will return the same
-exports['qb-fuel']:GetFuel(vehicle)
+exports['ta2-fuel']:GetFuel(vehicle)
 exports['LegacyFuel']:GetFuel(vehicle)
 ```
 
