@@ -1,8 +1,8 @@
-# qb-houserobbery
-House Robberies For QB-Core
+# ta2-houserobbery
+House Robberies For TA2-Core
 
 ## Dependencies
-- [qb-minigames](https://github.com/qbcore-framework/qb-minigames)
+- [ta2-minigames]
 
 # License
 
