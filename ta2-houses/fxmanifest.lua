@@ -1,7 +1,7 @@
 ﻿fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
-author 'Kakarot'
+author 'TATITUPTECH'
 description 'Housing system for players using shells and furniture items to decorate their homes'
 version '2.2.0'
 
