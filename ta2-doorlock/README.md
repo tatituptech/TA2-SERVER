@@ -5,7 +5,7 @@ This doorlock system is based on [nui_doorlock by thelindat](https://github.com/
 
 ## Dependencies
 
-* [ta2-core]
+* [ta2-core] https://github.com/tatituptech/TA2-CORE
 * [ta2-input] - For Making New Doors
 * [ta2-minigames]
 
