@@ -21,7 +21,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>
 
 
 ## Dependencies
-- ta2-core
+- ta2-core (https://github.com/tatituptech/TA2-CORE)
 - ta2-inventory
 - ta2-target
 
