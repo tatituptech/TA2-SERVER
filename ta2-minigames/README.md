@@ -1,4 +1,4 @@
-# qb-minigames
+# ta2-minigames
 
 I didn't make these, I'm just converting them from here because I was bored so credit to whoever this is https://www.codingnepalweb.com/best-javascript-games-for-beginners
 I plan on doing the rest
