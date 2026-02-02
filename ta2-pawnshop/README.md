@@ -1,5 +1,5 @@
 # ta2-pawnshop
-Pawn Shop For QB-Core
+Pawn Shop For TA2-Core
 
 # License
 
