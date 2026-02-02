@@ -1,31 +1,31 @@
 # ta2-multicharacter
-Multi Character Feature for QB-Core Framework :people_holding_hands:
+Multi Character Feature for TA2-Core Framework :people_holding_hands:
 
 Added support for setting default number of characters per player per Rockstar license
 
 # License
 
-    QBCore Framework
-    Copyright (C) 2021 Joshua Eger
+TA2Core Framework
+Copyright (C) 2026 Terrance Tatituptech Ware
 
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
 
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
 
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <https://www.gnu.org/licenses/>
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>
 
 
 ## Dependencies
-- [ta2-core](https://github.com/qbcore-framework/qb-core)
-- [ta2-spawn](https://github.com/qbcore-framework/qb-spawn) - Spawn selector
-- [ta2-apartments](https://github.com/qbcore-framework/qb-apartments) - For giving the player a apartment after creating a character.
+- [ta2-core]
+- [ta2-spawn]- Spawn selector
+- [ta2-apartments]- For giving the player a apartment after creating a character.
 - [ta2-clothing]- For the character creation and saving outfits.
 - [ta2-weathersync] - For adjusting the weather 
 
@@ -42,10 +42,10 @@ Added support for setting default number of characters per player per Rockstar l
 - Download the script and put it in the `[ta2]` directory.
 - Add the following code to your server.cfg/resouces.cfg
 ```
-ensure qb-core
-ensure qb-multicharacter
-ensure qb-spawn
-ensure qb-apartments
-ensure qb-clothing
-ensure qb-weathersync
+ensure ta2-core
+ensure ta2-multicharacter
+ensure ta2-spawn
+ensure ta2-apartments
+ensure ta2-clothing
+ensure ta2-weathersync
 ```
