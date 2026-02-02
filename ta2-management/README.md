@@ -4,8 +4,8 @@
 - Allows for multiple boss menu locations!
 
 ## Dependencies
-- [ta2-core](https://github.com/qbcore-framework/qb-core)
-- [ta2-smallresources](https://github.com/qbcore-framework/qb-smallresources) (For the Logs)
+- [ta2-core](https://github.com/tatituptech/TA2-CORE)
+- [ta2-smallresources](For the Logs
 - [ta2-input](https://github.com/qbcore-framework/qb-input)
 - [ta2-menu](https://github.com/qbcore-framework/qb-menu)
 - [ta2-inventory](https://github.com/qbcore-framework/qb-inventory)
