@@ -1,4 +1,4 @@
-# qb-multicharacter
+# ta2-multicharacter
 Multi Character Feature for QB-Core Framework :people_holding_hands:
 
 Added support for setting default number of characters per player per Rockstar license
@@ -23,11 +23,11 @@ Added support for setting default number of characters per player per Rockstar l
 
 
 ## Dependencies
-- [qb-core](https://github.com/qbcore-framework/qb-core)
-- [qb-spawn](https://github.com/qbcore-framework/qb-spawn) - Spawn selector
-- [qb-apartments](https://github.com/qbcore-framework/qb-apartments) - For giving the player a apartment after creating a character.
-- [qb-clothing](https://github.com/qbcore-framework/qb-clothing) - For the character creation and saving outfits.
-- [qb-weathersync](https://github.com/qbcore-framework/qb-weathersync) - For adjusting the weather while player is creating a character.
+- [ta2-core](https://github.com/qbcore-framework/qb-core)
+- [ta2-spawn](https://github.com/qbcore-framework/qb-spawn) - Spawn selector
+- [ta2-apartments](https://github.com/qbcore-framework/qb-apartments) - For giving the player a apartment after creating a character.
+- [ta2-clothing]- For the character creation and saving outfits.
+- [ta2-weathersync] - For adjusting the weather 
 
 ## Screenshots
 ![Character Selection](https://cdn.discordapp.com/attachments/934470871333105674/1014215694394589294/unknown.png)
@@ -39,7 +39,7 @@ Added support for setting default number of characters per player per Rockstar l
 
 ## Installation
 ### Manual
-- Download the script and put it in the `[qb]` directory.
+- Download the script and put it in the `[ta2]` directory.
 - Add the following code to your server.cfg/resouces.cfg
 ```
 ensure qb-core
