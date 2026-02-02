@@ -1,6 +1,6 @@
-# qb-target
+# ta2-target
 
-qb-target is a targeting solution that allows interaction with any predefined entity, model, entity type or polyzone. While activated you can easily and safely replace markers and distance checking, instead relying on intuitive design to improve player experiences and optimize interaction.
+ta2-target is a targeting solution that allows interaction with any predefined entity, model, entity type or polyzone. While activated you can easily and safely replace markers and distance checking, instead relying on intuitive design to improve player experiences and optimize interaction.
 
 ## Credits
 
@@ -19,8 +19,6 @@ qb-target is a targeting solution that allows interaction with any predefined en
 * [QBCore](https://github.com/qbcore-framework/qb-core)
 
 ## Information
-
-This repository was originally a direct fork and now it's own repository as it's basically qtarget but with lots of changes to it to make it better, most of the code comes from qtarget as I find their work awesome on this and what they've achieved with it.
 
 You are free to help through Pull Requests and leave as much suggestions or issues, I love some help!
 
