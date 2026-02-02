@@ -1,4 +1,4 @@
-# qb-vehicleshop
+# ta2-vehicleshop
 
 **Test Drives:**
 * Configurable time
@@ -62,9 +62,9 @@
 * Here's a Wiki on how to create new PolyZone:
 https://github.com/mkafrin/PolyZone/wiki/Using-the-creation-script
 
-**[qb-menu](https://github.com/qbcore-framework/qb-menu)**
+**[ta2-menu](https://github.com/qbcore-framework/qb-menu)**
 
-**[qb-input](https://github.com/qbcore-framework/qb-input)**
+**[ta2-input](https://github.com/qbcore-framework/qb-input)**
 
 ```lua
 Config = {}
@@ -207,18 +207,13 @@ Config.Shops = {
 
 # License
 
-    QBCore Framework
-    Copyright (C) 2021 Joshua Eger
+TA2Core Framework Copyright (C) 2026 Terrance Tatituptech Ware
 
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <https://www.gnu.org/licenses/>
+This program is free software: you can redistribute it and/or modify it 
+under the terms of the GNU General Public License as published by the Free Software Foundation,
+either version 3 of the License, or (at your option) any later version.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+See the GNU General Public License for more details.
+You should have received a copy of the GNU General Public License along with this program.
+If not, see https://www.gnu.org/licenses/
