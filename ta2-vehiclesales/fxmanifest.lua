@@ -1,7 +1,7 @@
 ﻿fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
-author 'Kakarot'
+author 'TATITUPTECH'
 description 'Allows players to set their vehicles on display for sale to other players'
 version '1.2.0'
 
@@ -34,3 +34,4 @@ files {
     'html/vue.min.js',
     'html/ui.js',
 }
+
