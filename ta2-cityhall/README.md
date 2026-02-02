@@ -37,6 +37,5 @@ ensure ta2-cityhall
 ![Apply For a Job](https://i.imgur.com/26Kd0FU.png)
 ![Cityhall DrawText Interaction](https://i.imgur.com/Uxh2GZC.png)
 ![Cityhall QB-Target Interaction](https://i.imgur.com/K54cMLt.png)
-![Driving School Sending And Receiving Mail](https://i.imgur.com/iJof4jI.png)
 ![Driving School DrawText Interaction](https://i.imgur.com/32BPp8f.png)
 ![Driving School QB-Target Interaction](https://i.imgur.com/P7jWBsV.png)
