@@ -1,5 +1,5 @@
 # ta2-phone
-Advanced Phone for QB-Core Framework :iphone:
+Advanced Phone for TA2-Core Framework :iphone:
 
 # License
 
