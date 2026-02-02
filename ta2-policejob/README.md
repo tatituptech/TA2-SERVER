@@ -20,16 +20,16 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>
 
 ## Dependencies
-- [qb-core](https://github.com/qbcore-framework/qb-core)
-- [qb-bossmenu](https://github.com/qbcore-framework/qb-bossmenu)  (Deprecated) - For the boss menu
-- [qb-management](https://github.com/qbcore-framework/qb-management) (Replaces qb-bossmenu) - For the boss/gang menu
-- [qb-garages](https://github.com/qbcore-framework/qb-garages) - For the vehicle spawner
-- [qb-clothing](https://github.com/qbcore-framework/qb-clothing) - For the locker room
-- [qb-phone](https://github.com/qbcore-framework/qb-phone) - For the MEOS app and notifications etc.
-- [qb-log](https://github.com/qbcore-framework/qb-logs) - (Deprecated) - For logging certain events
-- [qb-smallresources](https://github.com/qbcore-framework/qb-smallresources) (Replaces qb-log) - qb-log was added to qb-smallresources
-- [qb-menu](https://github.com/qbcore-framework/qb-menu) - For the vehicle menus
-- [qb-input](https://github.com/qbcore-framework/qb-input) - For accessing evidence stashes
+- [ta2-core]
+- [ta2-bossmenu]- For the boss menu
+- [ta2-management]- For the boss/gang menu
+- [ta2-garages]- For the vehicle spawner
+- [ta2-clothing]- For the locker room
+- [ta2-phone]- For the MEOS app and notifications etc.
+- [ta2-log]- (Deprecated) - For logging certain events
+- [ta2-smallresources]- ta2-log was added to ta2-smallresources
+- [ta2-menu]- For the vehicle menus
+- [ta2-input]- For accessing evidence stashes
 
 
 ## Screenshots
