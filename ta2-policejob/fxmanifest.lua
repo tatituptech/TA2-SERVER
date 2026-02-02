@@ -1,7 +1,7 @@
 ﻿fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
-author 'Kakarot'
+author 'TATITUPTECH'
 description 'Provides police tools, evidence, job and more functionality for players to use as a cop'
 version '1.3.5'
 
