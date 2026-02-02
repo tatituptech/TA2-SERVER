@@ -4,7 +4,7 @@ Fuel and fuelstations system for Fivem :fuelpump:
 
 ## Dependencies
 
--   [ta2-core]
+-   [ta2-core]https://github.com/tatituptech/TA2-CORE
 -   [ta2-target]
 -   [PolyZone]
 
