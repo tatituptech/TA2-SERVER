@@ -14,12 +14,12 @@ If not, see https://www.gnu.org/licenses/
 
 
 ## Dependencies
-- [qb-core](https://github.com/qbcore-framework/qb-core)
-- [qb-clothing](https://github.com/qbcore-framework/qb-clothing) - To save outfits
-- [qb-houses](https://github.com/qbcore-framework/qb-houses) - House logic
-- [qb-interior](https://github.com/qbcore-framework/qb-interior) - Interior logic
-- [qb-weathersync](https://github.com/qbcore-framework/qb-weathersync) - To desync weather while inside
-- [qb-spawn](https://github.com/qbcore-framework/qb-spawn) - To spawn the player at apartment if last location was in apartment
+- [ta2-core]
+- [ta2-clothing]- To save outfits
+- [ta2-houses]- House logic
+- [ta2-interior]- Interior logic
+- [ta2-weathersync]- To desync weather while inside
+- [ta2-spawn]- To spawn the player at apartment if last location was in apartment
 
 ## Screenshots
 ![Inside Apartment](https://i.imgur.com/mp3XL4Y.jpg)
@@ -37,17 +37,17 @@ If not, see https://www.gnu.org/licenses/
 
 ## Installation
 ### Manual
-- Download the script and put it in the `[qb]` directory.
-- Import `qb-apartments.sql` in your database
+- Download the script and put it in the `[ta2]` directory.
+- Import `ta2-apartments.sql` in your database
 - Add the following code to your server.cfg/resouces.cfg
 ```
-ensure qb-core
-ensure qb-interior
-ensure qb-weathersync
-ensure qb-clothing
-ensure qb-houses
-ensure qb-spawn
-ensure qb-apartments
+ensure ta2-core
+ensure ta2-interior
+ensure ta2-weathersync
+ensure ta2-clothing
+ensure ta2-houses
+ensure ta2-spawn
+ensure ta2-apartments
 ```
 
 ## Configuration
