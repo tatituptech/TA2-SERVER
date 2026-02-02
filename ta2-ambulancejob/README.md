@@ -1,10 +1,10 @@
-# qb-ambulancejob
-EMS Job and Death/Wound Logic for QB-Core Framework :ambulance:
+# ta2-ambulancejob
+EMS Job and Death/Wound Logic for TA2-Core Framework :ambulance:
 
 ## Dependencies
-- [qb-core](https://github.com/qbcore-framework/qb-core) (Required)
-- [qb-phone](https://github.com/qbcore-framework/qb-phone) (Required)
-- [qb-target](https://github.com/BerkieBb/qb-target) (Optional)
+- [ta2-core](https://github.com/qbcore-framework/qb-core) (Required)
+- [ta2-phone](https://github.com/qbcore-framework/qb-phone) (Required)
+- [ta2-target](https://github.com/BerkieBb/qb-target) (Optional)
 - [PolyZone](https://github.com/mkafrin/PolyZone) (Required)
 
 # Server.cfg Convar Update
