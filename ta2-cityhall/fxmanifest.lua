@@ -1,8 +1,8 @@
 ﻿fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
-use_fxv2_oal 'yes'
-author 'Kakarot'
+
+author 'TATITUPTECH'
 description 'Allows players to purchase id cards and licenses or change their job'
 version '2.2.0'
 
