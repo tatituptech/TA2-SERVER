@@ -1,4 +1,4 @@
-# qb-phone
+# ta2-phone
 Advanced Phone for QB-Core Framework :iphone:
 
 # License
@@ -20,14 +20,14 @@ Advanced Phone for QB-Core Framework :iphone:
     along with this program.  If not, see <https://www.gnu.org/licenses/>
 
 ## Dependencies
-- [qb-core](https://github.com/qbcore-framework/qb-core)
-- [qb-policejob](https://github.com/qbcore-framework/qb-policejob) - MEOS, handcuff check etc. 
-- [qb-crypto](https://github.com/qbcore-framework/qb-crypto) - Crypto currency trading 
-- [qb-lapraces](https://github.com/qbcore-framework/qb-lapraces) - Creating routes and racing 
-- [qb-houses](https://github.com/qbcore-framework/qb-houses) - House and Key Management App
-- [qb-garages](https://github.com/qbcore-framework/qb-garages) - For Garage App
-- [qb-banking](https://github.com/qbcore-framework/qb-banking) - For Banking App
-- [screenshot-basic](https://github.com/citizenfx/screenshot-basic) - For Taking Photos
+- [ta2-core]
+- [ta2-policejob]- MEOS, handcuff check etc. 
+- [ta2-crypto]- Crypto currency trading 
+- [ta2-lapraces]- Creating routes and racing 
+- [ta2-houses]- House and Key Management App
+- [ta2-garages]- For Garage App
+- [ta2-banking]- For Banking App
+- [screenshot-basic]- For Taking Photos
 - A Webhook for hosting photos (Discord or Imgur can provide this)
 
 
@@ -60,19 +60,19 @@ Advanced Phone for QB-Core Framework :iphone:
 
 ## Installation
 ### Manual
-- Download the script and put it in the `[qb]` directory.
-- Import `qb-phone.sql` in your database
+- Download the script and put it in the `[ta2]` directory.
+- Import `ta2-phone.sql` in your database
 - Add the following code to your server.cfg/resouces.cfg
 ```
-ensure qb-core
+ensure ta2-core
 ensure screenshot-basic
-ensure qb-phone
-ensure qb-policejob
-ensure qb-crypto
-ensure qb-lapraces
-ensure qb-houses
-ensure qb-garages
-ensure qb-banking
+ensure ta2-phone
+ensure ta2-policejob
+ensure ta2-crypto
+ensure ta2-lapraces
+ensure ta2-houses
+ensure ta2-garages
+ensure ta2-banking
 ```
 
 ## Configuration
