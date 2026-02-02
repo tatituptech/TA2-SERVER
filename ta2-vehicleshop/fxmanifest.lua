@@ -1,7 +1,7 @@
 ﻿fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
-author 'Kakarot'
+author 'TATITUPTECH'
 description 'Allows players to purchase vehicles and manage shops through a job'
 version '2.1.0'
 
