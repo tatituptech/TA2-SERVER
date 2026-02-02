@@ -2,10 +2,10 @@
 EMS Job and Death/Wound Logic for TA2-Core Framework :ambulance:
 
 ## Dependencies
-- [ta2-core](https://github.com/qbcore-framework/qb-core) (Required)
-- [ta2-phone](https://github.com/qbcore-framework/qb-phone) (Required)
-- [ta2-target](https://github.com/BerkieBb/qb-target) (Optional)
-- [PolyZone](https://github.com/mkafrin/PolyZone) (Required)
+- [ta2-core](https://github.com/tatituptech/TA2-CORE)) (Required)
+- [ta2-phone](Required)
+- [ta2-target](Optional}
+- [PolyZone](Required)
 
 # Server.cfg Convar Update
 - Global DrawTextUi Option
