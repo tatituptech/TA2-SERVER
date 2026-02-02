@@ -1,15 +1,15 @@
-# qb-management
+# ta2-management
 - Manage employees online or offline!
 - Access a personal boss level stash!
 - Allows for multiple boss menu locations!
 
 ## Dependencies
-- [qb-core](https://github.com/qbcore-framework/qb-core)
-- [qb-smallresources](https://github.com/qbcore-framework/qb-smallresources) (For the Logs)
-- [qb-input](https://github.com/qbcore-framework/qb-input)
-- [qb-menu](https://github.com/qbcore-framework/qb-menu)
-- [qb-inventory](https://github.com/qbcore-framework/qb-inventory)
-- [qb-clothing](https://github.com/qbcore-framework/qb-clothing)
+- [ta2-core](https://github.com/qbcore-framework/qb-core)
+- [ta2-smallresources](https://github.com/qbcore-framework/qb-smallresources) (For the Logs)
+- [ta2-input](https://github.com/qbcore-framework/qb-input)
+- [ta2-menu](https://github.com/qbcore-framework/qb-menu)
+- [ta2-inventory](https://github.com/qbcore-framework/qb-inventory)
+- [ta2-clothing](https://github.com/qbcore-framework/qb-clothing)
 
 # License
 
