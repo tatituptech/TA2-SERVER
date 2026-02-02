@@ -1,7 +1,7 @@
 ﻿fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
-author 'TATITUPTECH'
+author 'Kakarot'
 description 'Allows players to deliver packages and sell drugs to npcs'
 version '1.3.0'
 

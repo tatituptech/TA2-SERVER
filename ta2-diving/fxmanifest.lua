@@ -1,7 +1,7 @@
 ﻿fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
-author 'TATITUPTECH'
+author 'Kakarot'
 description 'Allows players to dive and search for materials underwater to sell'
 version '1.2.1'
 
