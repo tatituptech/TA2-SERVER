@@ -1,4 +1,4 @@
-# qb-storerobbery
+# ta2-storerobbery
 Store Robberies For QB-Core
 
 # License
