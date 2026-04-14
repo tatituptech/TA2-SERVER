@@ -1,5 +1,5 @@
 # ta2-policejob
-Police Job for QB-Core Framework :police_officer:
+
 
 # License
 
