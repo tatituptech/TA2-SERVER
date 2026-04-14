@@ -1,4 +1,4 @@
-# qb-scrapyard
+# ta2-scrapyard
 Scrapyard For QB-Core
 
 # License
